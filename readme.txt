@@ -4,3 +4,4 @@ test => test code
 docs => documents
 
 My fourth class has been approved
+I am learning something new everyday
